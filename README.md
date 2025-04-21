@@ -1,6 +1,6 @@
 <div align="center">
 
-## astro-erudite
+## astro-scholarly
 
 [![License]](LICENSE)
 
